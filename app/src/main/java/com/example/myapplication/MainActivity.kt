@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         var test2 = "test2"
 
         // master branch
+        // master branch2
     }
 }
